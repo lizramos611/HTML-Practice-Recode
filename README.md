@@ -9,7 +9,7 @@ READ ME- REFACTOR CODE
     Combined contents and benefits styling together
     Used footer, repalced footer div
 
-    Link: 
+    Link: https://github.com/lizramos611/Module1challenge.git
 
 
 
