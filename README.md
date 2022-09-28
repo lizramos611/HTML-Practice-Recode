@@ -1,5 +1,7 @@
 READ ME- REFACTOR CODE
 
+For my coding bootcamp, my task was to use the starter code and refactor it. So with this webpage I made it more accesibles, added some comments for people to follow along and combined many elements to avoid so much going on at once on both the HTML & CSS pages. 
+
     HTML
     Replaced all div classes with sections & articles ID's & classes
     Added header link and navigation bar
@@ -10,8 +12,6 @@ READ ME- REFACTOR CODE
     Used footer, repalced footer div
 
     Link: https://github.com/lizramos611/Module1challenge.git
-
-
 
 
 
