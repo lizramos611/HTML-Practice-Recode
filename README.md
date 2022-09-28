@@ -1,6 +1,5 @@
-# Module1challenege
-Module 1 challenge
 READ ME- REFACTOR CODE
+
     HTML
     Replaced all div classes with sections & articles ID's & classes
     Added header link and navigation bar
@@ -68,4 +67,3 @@ Use [Google](https://www.google.com) or another search engine to research this.
 
 ---
 © 2022 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
-
