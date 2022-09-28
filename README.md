@@ -17,9 +17,9 @@ For my coding bootcamp, my task was to use the starter code and refactor it. So 
     
 
     Take a Peek!
-    ![page1!](page1.png)
-    ![page2!](page2.png)
-    ![page3!](page3.png)
+ ![page1](https://user-images.githubusercontent.com/111591265/192823097-d8bf312b-acb3-484f-88c6-e1414e0461ad.png)
+![page2](https://user-images.githubusercontent.com/111591265/192823102-3b426ffd-574c-4860-822d-b0f8590edd0b.png)
+![page3](https://user-images.githubusercontent.com/111591265/192823107-dba90a99-ca5a-4a76-9664-1bc65c5b42e4.png)
 
 
 
