@@ -1,4 +1,5 @@
 READ ME- REFACTOR CODE
+
     HTML
     Replaced all div classes with sections & articles ID's & classes
     Added header link and navigation bar
