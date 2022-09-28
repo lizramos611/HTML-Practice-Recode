@@ -15,7 +15,11 @@ For my coding bootcamp, my task was to use the starter code and refactor it. So 
     
     Deployed link url: https://lizramos611.github.io/Module1challenge/index.html
     
-    
+
+    Take a Peek!
+    ![page1!](page1.png)
+    ![page2!](page2.png)
+    ![page3!](page3.png)
 
 
 
