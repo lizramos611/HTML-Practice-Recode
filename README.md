@@ -11,7 +11,11 @@ For my coding bootcamp, my task was to use the starter code and refactor it. So 
     Combined contents and benefits styling together
     Used footer, repalced footer div
 
-    Link: https://github.com/lizramos611/Module1challenge.git
+    Github Link: https://github.com/lizramos611/Module1challenge.git
+    
+    Deployed link url: https://lizramos611.github.io/Module1challenge/index.html
+    
+    
 
 
 
