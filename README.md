@@ -25,13 +25,13 @@ For my coding bootcamp, my task was to use the starter code and refactor it. So 
   ## Usage
   I plan on using this to show off my HTML skills and introductory skills for CSS. I have learned how to read and understand code enough to use semantic elements and simple styling.
   
-      ### HTML
-    #### Replaced all div classes with sections & articles ID's & classes
+    HTML
+    Replaced all div classes with sections & articles ID's & classes
     Added header link and navigation bar
     Replaced footer div with footer
 
-    ### CSS
-    #### Combined contents and benefits styling together
+    CSS
+    Combined contents and benefits styling together
     Used footer, repalced footer div
 
 
