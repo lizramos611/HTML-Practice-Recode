@@ -1,4 +1,4 @@
-# REFACTOR CODE
+# Refactor Code
 
 <p>For my coding bootcamp, my task was to use the starter code and refactor it. So with this webpage I made it more accesibles, added some comments for people to follow along and combined many elements to avoid so much going on at once on both the HTML & CSS pages. </p>
 
