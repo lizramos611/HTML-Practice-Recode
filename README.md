@@ -1,9 +1,9 @@
 # Refactor Code
 \
-[Github Link](https://github.com/lizramos611/HTML-practice-recode)\
-
-[Deployed Link](https://lizramos611.github.io/HTML-practice-recode) \
-
+[Github Link](https://github.com/lizramos611/HTML-practice-recode)
+\
+[Deployed Link](https://lizramos611.github.io/HTML-practice-recode) 
+\
  Take a Peek!
  ![page1](https://user-images.githubusercontent.com/111591265/192823097-d8bf312b-acb3-484f-88c6-e1414e0461ad.png)
 ![page2](https://user-images.githubusercontent.com/111591265/192823102-3b426ffd-574c-4860-822d-b0f8590edd0b.png)
